@@ -1,6 +1,9 @@
 # Apache Cordova New Committer and PMC Member Process
 
-**File a new issue for the checklist.**
+
+<a href="/cordova/new_committer_and_pmc/issues/new" class="btn btn-primary float-right" role="button" data-hotkey="c">
+**File a new issue for the checklist.**</a>
+
 Don't use real names since an invitation can be rejected or the Apache Board can veto PMC inclusion.
 
 Description
