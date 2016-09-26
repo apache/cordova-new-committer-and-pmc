@@ -11,4 +11,5 @@ See the [README](../README.md) for details on each of the steps.
 - [ ] 5. When the new committer accepts the invite, create a new account for the user (PMC Chair only) [[details]](https://github.com/cordova/new_committer_and_pmc#5-when-the-new-committer-accepts-the-invite-create-a-new-account-for-the-user-pmc-chair-only)
 - [ ] 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file (any PMC member) [[details]](https://github.com/cordova/new_committer_and_pmc#6-once-72-hours-has-elapsed-from-the-board-notice-add-the-committer-to-the-pmc-committee-infotxt-file-any-pmc-member)
 - [ ] 7. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC LDAP records (PMC Chair only) [[details]](https://github.com/cordova/new_committer_and_pmc#7-once-72-hours-has-elapsed-from-the-board-notice-add-the-committer-to-the-pmc-ldap-records-pmc-chair-only)
+- [ ] 8. Add the PMC member to the private@ list [[details]](https://github.com/cordova/new_committer_and_pmc/blob/master/README.md#8-automatically-subscribe-the-new-pmc-member-to-the-private-list)
 - [ ] Close this issue with a resolution note
