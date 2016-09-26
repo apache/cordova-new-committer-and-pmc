@@ -130,7 +130,13 @@ If that fails, you will need to SSH to `minotaur.apache.org` and run the `modify
 Login to minotaur.a.o is only through public key SSH.
 
 
+8. Automatically subscribe the new PMC member to the private list
+---
 
+For example to add name@example.com to the private@cordova.apache.org mailing list, email to:
+```
+private-subscribe-name=example.com@cordova.apache.org
+```
 
 
 
