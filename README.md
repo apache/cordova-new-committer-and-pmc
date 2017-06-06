@@ -11,8 +11,9 @@ Description
 
 So, you've decided to invite a community member to be a committer and Project Management Committee (PMC) member, what do you do?
 
-1. Send a [VOTE] thread to private@
 ---
+1. Send a [VOTE] thread to private@
+
 
 See https://community.apache.org/newcommitter.html#committer-vote-template and https://community.apache.org/newcommitter.html#pmc-vote-template
 
