@@ -6,14 +6,12 @@
 
 Don't use real names since an invitation can be rejected or the Apache Board can veto PMC inclusion.
 
-Description
+## Description
 ---
 
 So, you've decided to invite a community member to be a committer and Project Management Committee (PMC) member, what do you do?
 
----
-1. Send a [VOTE] thread to private@
-
+## 1. Send a [VOTE] thread to private@
 
 See https://community.apache.org/newcommitter.html#committer-vote-template and https://community.apache.org/newcommitter.html#pmc-vote-template
 
@@ -32,14 +30,11 @@ I would like to nominate XXXX as a Cordova committer and PMC member.
 I vote +1
 ```
 
-
-2. Wait three days or when there is a clear consensus, then close the [VOTE]
----
+## 2. Wait three days or when there is a clear consensus, then close the [VOTE]
 
 Of course there should be some actual votes before closing as well. See https://community.apache.org/newcommitter.html#close-vote
 
-3. Send an Invite email to the community member, cc private@
----
+## 3. Send an Invite email to the community member, cc private@
 
 Use the template below. Note the words **"PMC membership is subject
 to approval by the ASF Board."**, this allows you to send the Board PMC notice straight away. If the board objects, they can still be a committer.
@@ -90,8 +85,7 @@ Regards,
 The Apache Cordova Project Management Committee
 ```
 
-4. Send a PMC Notice to board@, and cc private@
----
+## 4. Send a PMC Notice to board@, and cc private@
 
 Use the template below. 
 
@@ -107,22 +101,19 @@ Vote link:
 For the **vote result link**, 
 [login first](https://lists.apache.org/oauth.html), then go [here](http://lists.apache.org/list.html?private@cordova.apache.org) to see the private@ archive. Find the vote result email and copy the permalink.
 
-5. When the new committer accepts the invite, create a new account for the user (PMC Chair only)
----
+## 5. When the new committer accepts the invite, create a new account for the user (PMC Chair only)
 
 Create [a new account](https://id.apache.org/acreq/) (make sure the user has sent an iCLA, if not you can't create a new account).
 
 If the user **already has an Apache account** (due to being a committer from another Apache project), you would just [add them to the project](https://www.apache.org/dev/pmc.html#SVNaccess) as a committer.
 
-6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file (any PMC member)
----
+## 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file (any PMC member)
 
 Update https://svn.apache.org/repos/private/committers/board/committee-info.txt with the new PMC member's details and the effective join date **(date that the file was updated)**.
 
 **Spaces**, not tabs!
 
-7. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC LDAP records (PMC Chair only)
----
+## 7. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC LDAP records (PMC Chair only)
 
 Update the LDAP records for Cordova using Whimsy (PMC Chair only) at [whimsy.apache.org](https://whimsy.apache.org).
 
@@ -131,8 +122,7 @@ If that fails, you will need to SSH to `minotaur.apache.org` and run the `modify
 Login to minotaur.a.o is only through public key SSH.
 
 
-8. Automatically subscribe the new PMC member to the private list
----
+## 8. Automatically subscribe the new PMC member to the private list
 
 For example to add name@example.com to the private@cordova.apache.org mailing list, email to:
 ```
