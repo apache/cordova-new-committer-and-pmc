@@ -121,6 +121,7 @@ If that fails, you will need to SSH to `minotaur.apache.org` and run the `modify
 
 Login to minotaur.a.o is only through public key SSH.
 
+OR go to [Whimsy](https://wh imsy.apache.org/roster/committee/cordova), in the **Committers** section, double-click in the Notes column where the new committer's name is, and select the button **Add to PMC**.
 
 ## 8. Automatically subscribe the new PMC member to the private list
 
