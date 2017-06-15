@@ -131,6 +131,7 @@ For example to add name@example.com to the private@cordova.apache.org mailing li
 ```
 private-subscribe-name=example.com@cordova.apache.org
 ```
+Use this [CodePen](https://codepen.io/shazron/pen/yXVbXr) to encode it.
 
 
 
