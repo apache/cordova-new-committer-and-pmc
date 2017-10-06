@@ -103,7 +103,7 @@ For the **vote result link**,
 
 ## 5. When the new committer accepts the invite, create a new account for the user (PMC Chair only)
 
-Create [a new account](https://id.apache.org/acreq/) (make sure the user has sent an iCLA, if not you can't create a new account).
+Create [a new account](https://whimsy.apache.org/officers/acreq) (make sure the user has sent an iCLA, if not you can't create a new account).
 
 If the user **already has an Apache account** (due to being a committer from another Apache project), you would just [add them to the project](https://www.apache.org/dev/pmc.html#SVNaccess) as a committer.
 
