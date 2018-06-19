@@ -105,27 +105,31 @@ For the **vote result link**,
 
 Create [a new account](https://whimsy.apache.org/officers/acreq) (make sure the user has sent an iCLA, if not you can't create a new account).
 
-If the user **already has an Apache account** (due to being a committer from another Apache project), you would just [add them to the project](https://www.apache.org/dev/pmc.html#SVNaccess) as a committer.
+If the user **already has an Apache account** (due to being a committer from another Apache project), you would just add them to the project as a committer through: 
 
-## 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file (any PMC member)
+**Automatically using [Whimsy](https://whimsy.apache.org/roster/committee/cordova):**
+Use [Whimsy](https://whimsy.apache.org/roster/committee/cordova):
+1. Press the `Add` button
+2. Search for their Apache Id
+3. Check the `72 hour board@ NOTICE period elapsed?` checkbox
+4. Select the `Add as committer` button
 
-Update https://svn.apache.org/repos/private/committers/board/committee-info.txt with the new PMC member's details and the effective join date **(date that the file was updated)**.
+or **[manually]**( https://www.apache.org/dev/pmc.html#SVNaccess).
 
-**Spaces**, not tabs!
+## 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file and LDAP (any PMC Chair)
 
-## 7. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC LDAP records (PMC Chair only)
+**Automatically:**
+Use [Whimsy](https://whimsy.apache.org/roster/committee/cordova):
+1. Press the `Add` button
+2. Search for their Apache Id
+3. Check the `72 hour board@ NOTICE period elapsed?` checkbox
+4. Select the `Add to PMC` button
 
-Update the LDAP records for Cordova using Whimsy (PMC Chair only) at [whimsy.apache.org](https://whimsy.apache.org).
+**Manually:**
+1. (committee-info.txt) Update https://svn.apache.org/repos/private/committers/board/committee-info.txt with the new PMC member's details and the effective join date **(date that the file was updated)**. **Spaces**, not tabs!
+2. (LDAP) If that fails, you will need to SSH to `minotaur.apache.org` and run the `modify_committee.pl` command (run it without parameters to see the help text). Login to minotaur.a.o is only through public key SSH.
 
-If that fails, you will need to SSH to `minotaur.apache.org` and run the `modify_committee.pl` command (run it without parameters to see the help text).
-
-Login to minotaur.a.o is only through public key SSH.
-
-**OR** 
-
-go to [Whimsy](https://whimsy.apache.org/roster/committee/cordova), in the **Committers** section, double-click in the Notes column where the new committer's name is, and select the button **Add to PMC**.
-
-## 8. Automatically subscribe the new PMC member to the private list
+## 7. Automatically subscribe the new PMC member to the private list
 
 For example to add name@example.com to the private@cordova.apache.org mailing list, email to:
 ```
