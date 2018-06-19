@@ -30,7 +30,7 @@ I would like to nominate XXXX as a Cordova committer and PMC member.
 I vote +1
 ```
 
-## 2. Wait three days or when there is a clear consensus, then close the [VOTE]
+## 2. Wait three days (72 hours) or when there is a clear consensus, then close the [VOTE]
 
 Of course there should be some actual votes before closing as well. See https://community.apache.org/newcommitter.html#close-vote
 
@@ -116,7 +116,7 @@ Use [Whimsy](https://whimsy.apache.org/roster/committee/cordova):
 
 or **[manually]**( https://www.apache.org/dev/pmc.html#SVNaccess).
 
-## 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file and LDAP (any PMC Chair)
+## 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file and LDAP (PMC Chair only)
 
 **Automatically:**
 Use [Whimsy](https://whimsy.apache.org/roster/committee/cordova):
@@ -126,7 +126,7 @@ Use [Whimsy](https://whimsy.apache.org/roster/committee/cordova):
 4. Select the `Add to PMC` button
 
 **Manually:**
-1. (committee-info.txt) Update https://svn.apache.org/repos/private/committers/board/committee-info.txt with the new PMC member's details and the effective join date **(date that the file was updated)**. **Spaces**, not tabs!
+1. (committee-info.txt - any PMC member has write access) Update https://svn.apache.org/repos/private/committers/board/committee-info.txt with the new PMC member's details and the effective join date **(date that the file was updated)**. **Spaces**, not tabs!
 2. (LDAP) If that fails, you will need to SSH to `minotaur.apache.org` and run the `modify_committee.pl` command (run it without parameters to see the help text). Login to minotaur.a.o is only through public key SSH.
 
 ## 7. Automatically subscribe the new PMC member to the private list
