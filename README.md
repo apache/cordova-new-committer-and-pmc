@@ -107,7 +107,7 @@ Create [a new account](https://whimsy.apache.org/officers/acreq) (make sure the 
 
 If the user **already has an Apache account** (due to being a committer from another Apache project), you would just add them to the project as a committer through: 
 
-**Automatically using [Whimsy](https://whimsy.apache.org/roster/committee/cordova):**
+**Automatically:**
 Use [Whimsy](https://whimsy.apache.org/roster/committee/cordova):
 1. Press the `Add` button
 2. Search for their Apache Id
