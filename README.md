@@ -137,6 +137,16 @@ private-subscribe-name=example.com@cordova.apache.org
 ```
 Use this [CodePen](https://codepen.io/shazron/pen/yXVbXr) to encode it.
 
+## 8. Add the PMC member to the JIRA 'PMC' User Role
+
+1. Go to the [Cordova JIRA Project Settings](https://issues.apache.org/jira/plugins/servlet/project-config/CB/summary)
+2. Go to `Users and Roles`
+3. Select `Add Users to a Role`
+4. Search for the user, and add to the `PMC` role
+
+## 9. Ask the PMC member to Link their Github account
+
+Go to [Gitbox](https://gitbox.apache.org/setup/)
 
 
 
