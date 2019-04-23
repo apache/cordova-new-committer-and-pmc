@@ -73,12 +73,13 @@ over to the people index [1] and do a quick search to see if the login
 id is in use. Please also choose an email forwarding address for your
 Apache account.
 
-NOTE: You will also need to submit an iCLA in order to accept this invitation.
+NOTE: You will also need to submit an iCLA [2] in order to accept this invitation.
 
 Thanks for your prompt response,
 The Apache Cordova Project Management Committee
 
-[1] http://people.apache.org/committer-index.html
+[1] https://people.apache.org/committer-index.html
+[2] https://www.apache.org/licenses/icla.pdf
 
 Regards,
 
@@ -99,7 +100,7 @@ Vote link:
 ```
 
 For the **vote result link**, 
-[login first](https://lists.apache.org/oauth.html), then go [here](http://lists.apache.org/list.html?private@cordova.apache.org) to see the private@ archive. Find the vote result email and copy the permalink.
+[login first](https://lists.apache.org/oauth.html), then go [here](https://lists.apache.org/list.html?private@cordova.apache.org) to see the private@ archive. Find the vote result email and copy the permalink.
 
 ## 5. When the new committer accepts the invite, create a new account for the user (PMC Chair only)
 
@@ -147,8 +148,3 @@ Use this [CodePen](https://codepen.io/shazron/pen/yXVbXr) to encode it.
 ## 9. Ask the PMC member to Link their Github account
 
 Go to [Gitbox](https://gitbox.apache.org/setup/)
-
-
-
-
-
