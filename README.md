@@ -114,7 +114,7 @@ Use [Whimsy](https://whimsy.apache.org/roster/committee/cordova):
 3. Check the `72 hour board@ NOTICE period elapsed?` checkbox
 4. Select the `Add as committer` button
 
-or **[manually]**( https://www.apache.org/dev/pmc.html#SVNaccess).
+or **[manually](https://www.apache.org/dev/pmc.html#SVNaccess)**.
 
 ## 6. Once 72 hours has elapsed from the board@ notice, add the committer to the PMC committee-info.txt file and LDAP (PMC Chair only)
 
