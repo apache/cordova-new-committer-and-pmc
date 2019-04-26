@@ -151,4 +151,4 @@ Go to [Gitbox](https://gitbox.apache.org/setup/)
 
 ## 10. Invite the PMC member to the `#pmc` Slack Channel
 
-If the new PMC member is using Slack, invite them to the private 'pmc' Slack channel
+If the new PMC member is using Slack, invite them to the private `#pmc` Slack channel
