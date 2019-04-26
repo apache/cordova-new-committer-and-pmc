@@ -1,5 +1,5 @@
 ---
-name: 💌 Add a new commiter and PMC
+name: 💌 Add a new committer and PMC member
 about: Steps that need to be done in order to add a new committer and PMC member
 
 ---
