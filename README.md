@@ -145,6 +145,10 @@ Use this [CodePen](https://codepen.io/shazron/pen/yXVbXr) to encode it.
 3. Select `Add Users to a Role`
 4. Search for the user, and add to the `PMC` role
 
-## 9. Ask the PMC member to Link their Github account
+## 9. Ask the PMC member to Link their GitHub account
 
 Go to [Gitbox](https://gitbox.apache.org/setup/)
+
+## 10. Invite the PMC member to the 'pmc' Slack Channel
+
+If the new PMC member is using Slack, invite them to the private 'pmc' Slack channel
