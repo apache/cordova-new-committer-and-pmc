@@ -145,7 +145,7 @@ Use this [CodePen](https://codepen.io/shazron/pen/yXVbXr) to encode it.
 3. Select `Add Users to a Role`
 4. Search for the user, and add to the `PMC` role
 
-## 9. Ask the PMC member to Link their GitHub account
+## 9. Ask the PMC member to link their GitHub account
 
 Go to [Gitbox](https://gitbox.apache.org/setup/)
 
