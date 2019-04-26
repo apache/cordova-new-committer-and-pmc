@@ -1,6 +1,6 @@
 ---
 name: 💌 Add a new commiter and PMC
-about: Steps to that needs to be done in order to add a new commiter and PMC
+about: Steps to that need to be done in order to add a new commiter and PMC
 
 ---
 
