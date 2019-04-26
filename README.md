@@ -149,6 +149,6 @@ Use this [CodePen](https://codepen.io/shazron/pen/yXVbXr) to encode it.
 
 Go to [Gitbox](https://gitbox.apache.org/setup/)
 
-## 10. Invite the PMC member to the 'pmc' Slack Channel
+## 10. Invite the PMC member to the `#pmc` Slack Channel
 
 If the new PMC member is using Slack, invite them to the private 'pmc' Slack channel
