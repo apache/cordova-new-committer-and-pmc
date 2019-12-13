@@ -20,5 +20,5 @@ See the [README](../README.md) for details on each of the steps.
 - [ ] 8. Add the PMC member to the JIRA 'PMC' User Role [[details]](https://github.com/apache/cordova-new-committer-and-pmc#8-add-the-pmc-member-to-the-jira-pmc-user-role)
 - [ ] 9. Ask the PMC member to link their GitHub account [[details]](https://github.com/apache/cordova-new-committer-and-pmc#9-ask-the-pmc-member-to-link-their-github-account)
 - [ ] 10. Invite the PMC member to the `#pmc` Slack channel [[details]](https://github.com/apache/cordova-new-committer-and-pmc#10-invite-the-pmc-member-to-the-pmc-slack-channel)
-- [ ] 11. Optional: offer npm publish rights to the new PMC member
+- [ ] 11. Optional: offer npm publish rights to the new PMC member, if requested and required
 - [ ] Close this issue with a resolution note
