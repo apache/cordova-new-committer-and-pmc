@@ -86,7 +86,7 @@ Regards,
 The Apache Cordova Project Management Committee
 ```
 
-## 4. Send a PMC Notice to board@, and cc private@
+## 4. Send a PMC Notice to board@apache, and cc private@cordova..
 
 Use the template below. 
 
